@@ -1,0 +1,11 @@
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\bin\Debug\ICTest2.exe.config
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\bin\Debug\ICTest2.exe
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\bin\Debug\ICTest2.pdb
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\bin\Debug\ICTest2.xml
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\obj\Debug\ICTest2.vbprojAssemblyReference.cache
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\obj\Debug\ICTest2.Resources.resources
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\obj\Debug\ICTest2.vbproj.GenerateResource.cache
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\obj\Debug\ICTest2.vbproj.CoreCompileInputs.cache
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\obj\Debug\ICTest2.exe
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\obj\Debug\ICTest2.xml
+C:\Users\Jcomp\Documents\Career\ICTest2\ICTest2\obj\Debug\ICTest2.pdb
